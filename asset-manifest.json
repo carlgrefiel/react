@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/https//carlgrefiel.github.io/sample-react_app/static/css/main.edc1e01e.css",
-    "main.js": "/https//carlgrefiel.github.io/sample-react_app/static/js/main.c507813a.js",
-    "static/js/787.7c33f095.chunk.js": "/https//carlgrefiel.github.io/sample-react_app/static/js/787.7c33f095.chunk.js",
-    "static/media/luffy.png": "/https//carlgrefiel.github.io/sample-react_app/static/media/luffy.21ed1bc315b3e4270e0e.png",
-    "static/media/pirateflag.jpg": "/https//carlgrefiel.github.io/sample-react_app/static/media/pirateflag.aafbf97c9cb17e01596a.jpg",
-    "index.html": "/https//carlgrefiel.github.io/sample-react_app/index.html",
-    "main.edc1e01e.css.map": "/https//carlgrefiel.github.io/sample-react_app/static/css/main.edc1e01e.css.map",
-    "main.c507813a.js.map": "/https//carlgrefiel.github.io/sample-react_app/static/js/main.c507813a.js.map",
-    "787.7c33f095.chunk.js.map": "/https//carlgrefiel.github.io/sample-react_app/static/js/787.7c33f095.chunk.js.map"
+    "main.css": "/sample-react_app/static/css/main.edc1e01e.css",
+    "main.js": "/sample-react_app/static/js/main.1b4b868e.js",
+    "static/js/787.7c33f095.chunk.js": "/sample-react_app/static/js/787.7c33f095.chunk.js",
+    "static/media/luffy.png": "/sample-react_app/static/media/luffy.21ed1bc315b3e4270e0e.png",
+    "static/media/pirateflag.jpg": "/sample-react_app/static/media/pirateflag.aafbf97c9cb17e01596a.jpg",
+    "index.html": "/sample-react_app/index.html",
+    "main.edc1e01e.css.map": "/sample-react_app/static/css/main.edc1e01e.css.map",
+    "main.1b4b868e.js.map": "/sample-react_app/static/js/main.1b4b868e.js.map",
+    "787.7c33f095.chunk.js.map": "/sample-react_app/static/js/787.7c33f095.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edc1e01e.css",
-    "static/js/main.c507813a.js"
+    "static/js/main.1b4b868e.js"
   ]
 }
