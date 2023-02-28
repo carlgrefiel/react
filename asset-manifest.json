@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edc1e01e.css",
+    "main.js": "/static/js/main.0f406871.js",
+    "static/js/787.7c33f095.chunk.js": "/static/js/787.7c33f095.chunk.js",
+    "static/media/luffy.png": "/static/media/luffy.21ed1bc315b3e4270e0e.png",
+    "static/media/pirateflag.jpg": "/static/media/pirateflag.aafbf97c9cb17e01596a.jpg",
+    "index.html": "/index.html",
+    "main.edc1e01e.css.map": "/static/css/main.edc1e01e.css.map",
+    "main.0f406871.js.map": "/static/js/main.0f406871.js.map",
+    "787.7c33f095.chunk.js.map": "/static/js/787.7c33f095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc1e01e.css",
+    "static/js/main.0f406871.js"
+  ]
+}
